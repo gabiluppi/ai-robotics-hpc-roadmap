@@ -5,12 +5,12 @@ This repository documents my journey into Artificial Intelligence, Robotics, and
 
 
 ## 📅 Curriculum Overview
-| Semester | Focus Areas                         | Deliverables                                     | Status      |
-|----------|-------------------------------------|--------------------------------------------------|-------------|
-| 1        | Math, Python, Algorithms, HPC Intro | Matrix ops notebook, EDA mini-project            | In Progress |
-| 2        | ML Core, Statistic, ROS 1, MPI      | Kaggle project, ROS turtlebot, MPI demo          | Planned     |
-| 3        | Deep Learning, CV/NLP, ROS 2, CUDA  | CNN Classifier, BERT NLP, CUDA project           | Planned     |
-| 4        | RL, Distributed DL, Capstone        | RL agent, distributed training project, capstone | Planned     |
+| Semester | Focus Areas                         | Deliverables                                     | Status          |
+|----------|-------------------------------------|--------------------------------------------------|-----------------|
+| 1        | Math, Python, Algorithms, HPC Intro | Matrix ops notebook, EDA mini-project            | In Progress     |
+| 2        | ML Core, Statistic, ROS 1, MPI      | Kaggle project, ROS turtlebot, MPI demo          | Planned         |
+| 3        | Deep Learning, CV/NLP, ROS 2, CUDA  | CNN Classifier, BERT NLP, CUDA project           | Planned         |
+| 4        | --                                  | --                                               | Not-planned     |
 
 
 ## 🗂️ Directory Structure
